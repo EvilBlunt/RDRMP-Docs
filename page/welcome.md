@@ -4,6 +4,9 @@
 
 In this docs you will find LUA scripting functions API aswell as other documentation: F.A.Q, Troubleshooting section, game reference & more.
 
+> [!TIP]
+> If you want to contribute to this documentation, you can send pull requests to this [repository](https://github.com/Red-Mods/RDRMP-Docs/).
+
 ## Preview
 
 ![RDRMP Temp #1](assets/temp1.jpg)
