@@ -1,0 +1,5 @@
+# ai_speech_set_allow_context_for_actor `0x6AAB4CD0`
+
+```lua
+natives.ai_speech.ai_speech_set_allow_context_for_actor(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+```

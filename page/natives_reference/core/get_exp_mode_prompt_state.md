@@ -1,0 +1,5 @@
+# get_exp_mode_prompt_state `0x6226328F`
+
+```lua
+local result --[[ number ]] = natives.core.get_exp_mode_prompt_state()
+```
