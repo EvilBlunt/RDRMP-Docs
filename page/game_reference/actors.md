@@ -6,12 +6,12 @@ Below you will find a list of all the actors that can be spawned in the game, th
 
 | Native | Hash |
 | :------------ | :------------: |
-| STREAM::STREAMING_REQUEST_ACTOR | 0xB0A79FEE |
-| STREAM::STREAMING_IS_ACTOR_LOADED | 0x7DF72579 |
-| STREAM::STREAMING_EVICT_ACTOR | 0x6661CF89 |
-| OBJECT::CREATE_ACTOR_IN_LAYOUT | 0x8D67F397 |
-| OBJECT::CREATE_PLAYER_ACTOR_IN_LAYOUT | 0x6A307D5F |
-| OBJECT::RESPAWN_PLAYER_ACTOR_IN_LAYOUT | 0x637E446B |
+| natives.stream.streaming_request_actor | 0xB0A79FEE |
+| natives.stream.streaming_is_actor_loaded | 0x7DF72579 |
+| natives.stream.streaming_evict_actor | 0x6661CF89 |
+| natives.object.create_actor_in_layout | 0x8D67F397 |
+| natives.object.create_player_actor_in_layout | 0x6A307D5F |
+| natives.object.respawn_player_actor_in_layout | 0x637E446B |
 
 ## Snippet
 

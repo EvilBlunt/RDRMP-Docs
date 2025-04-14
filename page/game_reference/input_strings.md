@@ -134,10 +134,10 @@ This is the full list of input strings used for both keyboard & controller. Than
 
 | Native | Hash |
 | :------------ | :------------: |
-| CORE::IS_DIGITAL_ACTION_DOWN | 0x062C5047 |
-| CORE::IS_DIGITAL_ACTION_PRESSED | 0xDA674AE0 |
-| CORE::IS_DIGITAL_ACTION_RELEASED | 0x973F30EE |
-| CORE::GET_ANALOGUE_ACTION | 0xC1F9AC6B |
+| natives.core.is_digital_action_down | 0x062C5047 |
+| natives.core.is_digital_action_pressed | 0xDA674AE0 |
+| natives.core.is_digital_action_released | 0x973F30EE |
+| natives.core.get_analogue_action | 0xC1F9AC6B |
 
 ## Snippet
 

@@ -140,7 +140,7 @@ This is the full list of input strings prompts used in the game UI (Help text, s
 
 | Native | Hash |
 | :------------ | :------------: |
-| HUD::UI_SET_PROMPT_ICON_STRING | 0x247348C5 |
+| natives.hud.ui_set_prompt_icon_string | 0x247348C5 |
 
 ## Snippet
 
