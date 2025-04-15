@@ -108,7 +108,7 @@ This is a full list of all the usable keyboard keycodes.
 | INSERT | 210 |
 | DELETE | 211 |
 
-## Known Natives that use these Icon Strings
+## Known Natives that use these keycodes
 ###### (These are custom natives implemented by RDRMP)
 
 | Native | Hash |
