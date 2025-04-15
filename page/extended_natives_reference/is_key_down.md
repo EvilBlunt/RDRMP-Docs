@@ -1,5 +1,10 @@
 # is_key_down `0xAC93D58A`
 
+Checks if a key is currently being held down.
+
+> [!TIP]
+> This function supports two input types: a numeric keycode or a string representation of the key (e.g. "F5" or 63).
+
 ```lua
 natives.extended.is_key_down(_keycode --[[ number/string ]])
 ```
