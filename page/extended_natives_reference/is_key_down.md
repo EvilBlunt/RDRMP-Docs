@@ -17,7 +17,7 @@ natives.extended.is_key_down(_keycode --[[ number/string ]])
 -- Using a string representation
 if natives.extended.is_key_down("F5") then
 
-    print("F5 (Id 63) key has been pressed!")
+    print("F5 (Id 63) key is currently being held down!")
 end
 ```
 
@@ -25,6 +25,6 @@ end
 -- Using a numeric keycode
 if natives.extended.is_key_down(63) then
 
-    print("F5 (Id 63) key has been pressed!")
+    print("F5 (Id 63) key is currently being held down!")
 end
 ```
