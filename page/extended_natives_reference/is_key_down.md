@@ -4,8 +4,9 @@
 natives.extended.is_key_down(_keycode --[[ number/string ]])
 ```
 
-<details>
-<summary>💡 Example Usage</summary>
+---
+
+#### 💡Example Usage
 
 ```lua
 -- Using string keycode format
@@ -22,4 +23,3 @@ if natives.extended.is_key_down(63) then
     print("F5 (Id 63) key has been pressed!")
 end
 ```
-</details>
