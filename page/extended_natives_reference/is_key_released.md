@@ -1,6 +1,6 @@
 # is_key_released `0x21B6EB31`
 
-Checks if a key has just been released.
+Checks if a key has just been released. You can find the list of usable keycodes [here](https://docs.rdrmp.redmods.com/#/page/game_reference/keyboard_keycodes).
 
 > [!TIP]
 > This function supports two input types: a numeric keycode or a string representation of the key (e.g. "F5" or 63).

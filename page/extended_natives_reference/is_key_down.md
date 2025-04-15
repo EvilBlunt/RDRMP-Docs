@@ -1,6 +1,6 @@
 # is_key_down `0xAC93D58A`
 
-Checks if a key is currently being held down.
+Checks if a key is currently being held down. You can find the list of usable keycodes [here](https://docs.rdrmp.redmods.com/#/page/game_reference/keyboard_keycodes).
 
 > [!TIP]
 > This function supports two input types: a numeric keycode or a string representation of the key (e.g. "F5" or 63).

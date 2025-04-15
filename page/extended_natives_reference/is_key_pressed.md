@@ -1,6 +1,6 @@
 # is_key_pressed `0x6AFB8EB9`
 
-Checks if a key has just been pressed.
+Checks if a key has just been pressed. You can find the list of usable keycodes [here](https://docs.rdrmp.redmods.com/#/page/game_reference/keyboard_keycodes).
 
 > [!TIP]
 > This function supports two input types: a numeric keycode or a string representation of the key (e.g. "F5" or 63).
