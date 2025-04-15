@@ -10,10 +10,12 @@
 - [is_key_pressed](#/page/extended_natives_reference/is_key_pressed)
 - [is_key_released](#/page/extended_natives_reference/is_key_released)
 
-## 🎮 Game Reference
+## 🕹️ Game Reference
 
+- [⌨️ Keyboard Keycodes](#/page/game_reference/keyboard_keycodes)
+- [🎮 Controller Buttons](#/page/game_reference/controller_buttons)
 - [💥 Explosion Strings](#/page/game_reference/explosion_strings)
-- [⌨️ Input Strings](#/page/game_reference/input_strings)
+- [🔠 Input Strings](#/page/game_reference/input_strings)
 - [🔠 Input Strings Prompts](#/page/game_reference/input_strings_prompts)
 - [🧍 Actors](#/page/game_reference/actors)
 
