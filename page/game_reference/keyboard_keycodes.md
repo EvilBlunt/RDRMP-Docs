@@ -107,3 +107,12 @@ This is a full list of all the usable keyboard keycodes.
 | PAGE_DOWN | 209 |
 | INSERT | 210 |
 | DELETE | 211 |
+
+## Known Natives that use these Icon Strings
+###### (These are custom natives implemented by RDRMP)
+
+| Native | Hash |
+| :------------ | :------------: |
+| natives.extended.is_key_down | 0xAC93D58A |
+| natives.extended.is_key_pressed | 0x6AFB8EB9 |
+| natives.extended.is_key_released | 0x21B6EB31 |
