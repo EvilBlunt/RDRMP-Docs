@@ -6,7 +6,7 @@
 
 ## **How do I install RDRMP ?**
 
-- Download the Setup (installer) from [here](insert_a_link_here).
+- Download the Setup (installer) from [here](https://redmods.com/rdrmp/).
 - Follow the instruction (You will be asked if you want a desktop shortcut, it's recommended to choose 'Yes')
 - Enjoy :)
 
@@ -15,7 +15,7 @@
 
 ## **Where can I download RDRMP ?**
 
-**RDRMP** can be downloaded from [NexusMods](insert_a_link_here) or [Red Mods](insert_a_link_here)**.**
+**RDRMP** can be downloaded from [this website](https://redmods.com/rdrmp/), [NexusMods](https://www.nexusmods.com/reddeadredemption/mods/394) or [RDR2Mods](https://www.rdr2mods.com/downloads/rdr1/mods/488-rdrmp-multiplayer-mod/).
 
 ## **Who is the developer of RDRMP ?**
 
