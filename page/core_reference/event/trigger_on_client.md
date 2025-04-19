@@ -1,6 +1,6 @@
 # event.trigger_on_client
 
-![Server](https://img.shields.io/badge/Server-00FF2C)
+![Server](https://img.shields.io/badge/Server-00FFAA)
 
 Triggers an event, immediately invoking all associated handlers on the client side.
 

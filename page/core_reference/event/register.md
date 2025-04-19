@@ -1,7 +1,7 @@
 # event.register
 
 ![Client](https://img.shields.io/badge/Client-00FFFF)
-![Server](https://img.shields.io/badge/Server-00FF2C)
+![Server](https://img.shields.io/badge/Server-00FFAA)
 
 Register a new event that can be triggered later if at least one handler as been associated with it. Works on both client and server side.
 

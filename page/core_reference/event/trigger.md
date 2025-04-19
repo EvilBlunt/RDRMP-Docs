@@ -1,7 +1,7 @@
 # event.trigger
 
 ![Client](https://img.shields.io/badge/Client-00FFFF)
-![Server](https://img.shields.io/badge/Server-00FF2C)
+![Server](https://img.shields.io/badge/Server-00FFAA)
 
 Triggers an event, immediately invoking all locally associated handlers.
 

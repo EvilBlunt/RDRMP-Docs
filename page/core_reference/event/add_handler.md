@@ -1,7 +1,7 @@
 # event.add_handler
 
 ![Client](https://img.shields.io/badge/Client-00FFFF)
-![Server](https://img.shields.io/badge/Server-00FF2C)
+![Server](https://img.shields.io/badge/Server-00FFAA)
 
 Add an handler for a previously registered event. Works on both client and server side.
 
