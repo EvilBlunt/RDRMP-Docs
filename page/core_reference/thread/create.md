@@ -2,7 +2,10 @@
 
 ![Client](https://img.shields.io/badge/Client-00FFFF)
 
-Always create a new thread to run your code. Executing code directly at a root of a LUA script isn't recommended, it must be done within a thread.
+Create a new thread to run your code on.
+
+> [!WARNING]
+> Executing code directly at a root of a LUA script isn't recommended, you must be sure to always run your code inside a thread.
 
 ```lua
 thread.create(handler --[[ function ]])
