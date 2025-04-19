@@ -1,7 +1,7 @@
 # event.register
 
 ![Client](https://img.shields.io/badge/Client-00FFFF)
-![Server](https://img.shields.io/badge/Server-FF002C)
+![Server](https://img.shields.io/badge/Server-00FF2C)
 
 Register a new event that can be triggered later if at least one handler as been associated with it. Works on both client and server side.
 
@@ -17,11 +17,7 @@ event.register(name --[[ string ]])
 #### 💡Example Usage
 
 ```lua
-event.register("freeroam:give_money") -- Register the event first
-event.add_handler("freeroam:give_money", function(_amount) -- Add an handler for this event
-
-    print("Amount given: ".._amount)
-end)
+event.register("freeroam:give_money") -- Register an event called 'freeroam:give_money' (You need to associate an handler later on)
 ```
 
 > [!TIP]
