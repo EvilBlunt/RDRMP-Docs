@@ -19,10 +19,9 @@
 
 ## 💼 Core Reference
 
-### thread
+### chat
 
-- [create](#/page/core_reference/thread/create)
-- [wait](#/page/core_reference/thread/wait)
+- [add_message](#/page/core_reference/chat/add_message)
 
 ### event
 
@@ -31,6 +30,11 @@
 - [trigger](#/page/core_reference/event/trigger)
 - [trigger_on_client](#/page/core_reference/event/trigger_on_client)
 - [trigger_on_server](#/page/core_reference/event/trigger_on_server)
+
+### thread
+
+- [create](#/page/core_reference/thread/create)
+- [wait](#/page/core_reference/thread/wait)
 
 ## 📘 Extended Natives Reference
 
