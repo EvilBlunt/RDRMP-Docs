@@ -4,12 +4,6 @@
 - [⁉️ F.A.Q](#/page/f.a.q)
 - [🧰 Troubleshooting](#/page/troubleshooting)
 
-## 📘 Extended Natives Reference
-
-- [is_key_down](#/page/extended_natives_reference/is_key_down)
-- [is_key_pressed](#/page/extended_natives_reference/is_key_pressed)
-- [is_key_released](#/page/extended_natives_reference/is_key_released)
-
 ## 🕹️ Game Reference
 
 - [⌨️ Keyboard Keycodes](#/page/game_reference/keyboard_keycodes)
@@ -18,6 +12,27 @@
 - [🔠 Input Strings](#/page/game_reference/input_strings)
 - [🔠 Input Strings Prompts](#/page/game_reference/input_strings_prompts)
 - [🧍 Actors](#/page/game_reference/actors)
+
+## 💼 Core Reference
+
+### thread
+
+- [create](#/page/core_reference/thread/create)
+- [wait](#/page/core_reference/thread/wait)
+
+### event
+
+- [register](#/page/core_reference/event/register)
+- [add_handler](#/page/core_reference/event/add_handler)
+- [trigger](#/page/core_reference/event/trigger)
+- [trigger_on_client](#/page/core_reference/event/trigger_on_client)
+- [trigger_on_server](#/page/core_reference/event/trigger_on_server)
+
+## 📘 Extended Natives Reference
+
+- [is_key_down](#/page/extended_natives_reference/is_key_down)
+- [is_key_pressed](#/page/extended_natives_reference/is_key_pressed)
+- [is_key_released](#/page/extended_natives_reference/is_key_released)
 
 ## 📜 Natives Reference
 
