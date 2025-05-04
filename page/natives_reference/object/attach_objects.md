@@ -1,5 +1,5 @@
 # attach_objects `0xE1421B42`
 
 ```lua
-local result --[[ number ]] = natives.object.attach_objects(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]], _unk4 --[[ number ]], _unk5 --[[ number ]], _unk6 --[[ number ]], _unk7 --[[ number ]], _unk8 --[[ number ]], _unk9 --[[ number ]])
+local result --[[ number ]] = natives.object.attach_objects(_object1 --[[ number ]], _object2 --[[ number ]], _locator --[[ string ]], _position --[[ vector3 ]], _orientation --[[ vector3 ]], _unk5 --[[ number ]])
 ```
