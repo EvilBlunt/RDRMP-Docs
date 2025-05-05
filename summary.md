@@ -1,7 +1,3 @@
-## 🔧
-
-- [📂 Expand All](#)
-
 ## 🏠 Home
 
 - [👋 Welcome](#/page/welcome)
