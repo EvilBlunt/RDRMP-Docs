@@ -1,5 +1,5 @@
 # add_script_use_context_in_volume `0x039E7F1D`
 
 ```lua
-local result --[[ number ]] = natives.game.add_script_use_context_in_volume(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]], _unk4 --[[ number ]], _unk5 --[[ number ]], _unk6 --[[ number ]], _unk7 --[[ number ]], _unk8 --[[ number ]], _unk9 --[[ number ]])
+local result --[[ number ]] = natives.game.add_script_use_context_in_volume(_gxtEntry --[[ string ]], _volume --[[ number ]], _unk2 --[[ number ]], _inputString --[[ string ]], _unk4 --[[ string ]], _unk5 --[[ string ]], _unk6 --[[ string ]], _unk7 --[[ string ]], _unk8 --[[ number ]], _hudSound --[[ string ]])
 ```
