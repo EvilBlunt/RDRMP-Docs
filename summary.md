@@ -2821,6 +2821,7 @@
 
 ### prop
 
+- [clear_prop_remap](#/page/natives_reference/prop/clear_prop_remap)
 - [get_center_of_gravity](#/page/natives_reference/prop/get_center_of_gravity)
 - [get_grave_from_object](#/page/natives_reference/prop/get_grave_from_object)
 - [get_new_physinst_in_sphere](#/page/natives_reference/prop/get_new_physinst_in_sphere)
