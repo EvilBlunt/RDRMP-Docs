@@ -3,7 +3,7 @@
 Add or override a GXTEntry (It can be used to replace existing game text or simply register a newly GXTEntry key).
 
 ```lua
-natives.extended.ui_add_string(_gxtentry --[[ string ]])
+natives.extended.ui_add_string(_gxtentry --[[ string ]], _text --[[ string ]])
 ```
 
 ---
