@@ -1,5 +1,5 @@
 # task_use_gringo `0xA0E003A7`
 
 ```lua
-natives.tasks.task_use_gringo(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]], _unk4 --[[ number ]])
+natives.tasks.task_use_gringo(_actor --[[ number ]], _gringo --[[ number ]], _unk2 --[[ string ]], _unk3 --[[ number ]], _unk4 --[[ number ]])
 ```
