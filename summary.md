@@ -37,6 +37,8 @@
 - [is_key_down](#/page/extended_natives_reference/is_key_down)
 - [is_key_pressed](#/page/extended_natives_reference/is_key_pressed)
 - [is_key_released](#/page/extended_natives_reference/is_key_released)
+- [ui_add_string](#/page/extended_natives_reference/ui_add_string)
+- [ui_remove_string](#/page/extended_natives_reference/ui_remove_string)
 
 ## 📜 Natives Reference
 
