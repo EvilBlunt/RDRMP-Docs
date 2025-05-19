@@ -15,6 +15,8 @@
 
 ## 💼 Core Reference
 
+- [📃 Events](#/page/core_reference/events)
+
 ### chat
 
 - [add_message](#/page/core_reference/chat/add_message)
