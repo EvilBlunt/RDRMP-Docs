@@ -15,6 +15,8 @@
 
 ## 💼 Core Reference
 
+- [📃 Events](#/page/core_reference/events)
+
 ### chat
 
 - [add_message](#/page/core_reference/chat/add_message)
@@ -2726,9 +2728,6 @@
 
 ### playernames
 
-- [end_scripted_request](#/page/natives_reference/playernames/end_scripted_request)
-- [in_selected_pedpath](#/page/natives_reference/playernames/in_selected_pedpath)
-- [is_horses_relative](#/page/natives_reference/playernames/is_horses_relative)
 - [net_gamer_barker_accept](#/page/natives_reference/playernames/net_gamer_barker_accept)
 - [net_gamer_barker_reject](#/page/natives_reference/playernames/net_gamer_barker_reject)
 - [net_gamer_blips_force_visible](#/page/natives_reference/playernames/net_gamer_blips_force_visible)
@@ -2736,13 +2735,16 @@
 - [net_gamer_blips_show_on_full_map](#/page/natives_reference/playernames/net_gamer_blips_show_on_full_map)
 - [net_gamer_blips_show_posse_members](#/page/natives_reference/playernames/net_gamer_blips_show_posse_members)
 - [net_gamer_blips_treat_cover_as_alive](#/page/natives_reference/playernames/net_gamer_blips_treat_cover_as_alive)
+- [net_gamer_get_jpn_title](#/page/natives_reference/playernames/net_gamer_get_jpn_title)
 - [net_gamer_icons_set_stealth](#/page/natives_reference/playernames/net_gamer_icons_set_stealth)
 - [net_gamer_icons_show_local](#/page/natives_reference/playernames/net_gamer_icons_show_local)
 - [net_gamer_icon_force_text_visible](#/page/natives_reference/playernames/net_gamer_icon_force_text_visible)
 - [net_gamer_icon_force_visibility](#/page/natives_reference/playernames/net_gamer_icon_force_visibility)
+- [net_gamer_icon_force_visible](#/page/natives_reference/playernames/net_gamer_icon_force_visible)
 - [net_gamer_icon_reset_timer](#/page/natives_reference/playernames/net_gamer_icon_reset_timer)
 - [net_gamer_setmy_jpn_title](#/page/natives_reference/playernames/net_gamer_setmy_jpn_title)
 - [net_gamer_set_actor_override](#/page/natives_reference/playernames/net_gamer_set_actor_override)
+- [net_gamer_set_blip_override](#/page/natives_reference/playernames/net_gamer_set_blip_override)
 - [net_gamer_set_blip_stealth_override](#/page/natives_reference/playernames/net_gamer_set_blip_stealth_override)
 - [net_gamer_set_icon_stealth_override](#/page/natives_reference/playernames/net_gamer_set_icon_stealth_override)
 - [net_gamer_set_team](#/page/natives_reference/playernames/net_gamer_set_team)
