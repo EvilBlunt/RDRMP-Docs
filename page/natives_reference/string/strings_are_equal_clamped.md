@@ -1,5 +1,5 @@
 # strings_are_equal_clamped `0xEC28CA8E`
 
 ```lua
-local result --[[ number ]] = natives.string.strings_are_equal_clamped(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+local result --[[ integer ]] = natives.string.strings_are_equal_clamped(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]])
 ```

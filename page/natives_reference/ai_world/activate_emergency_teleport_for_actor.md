@@ -1,5 +1,5 @@
 # activate_emergency_teleport_for_actor `0x8ED2B0BC`
 
 ```lua
-local result --[[ number ]] = natives.ai_world.activate_emergency_teleport_for_actor(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]], _unk4 --[[ number ]])
+local result --[[ integer ]] = natives.ai_world.activate_emergency_teleport_for_actor(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]], _unk3 --[[ integer ]], _unk4 --[[ integer ]])
 ```

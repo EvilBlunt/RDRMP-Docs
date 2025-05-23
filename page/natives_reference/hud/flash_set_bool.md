@@ -1,5 +1,5 @@
 # flash_set_bool `0x34F03EC7`
 
 ```lua
-local result --[[ number ]] = natives.hud.flash_set_bool(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+local result --[[ integer ]] = natives.hud.flash_set_bool(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]])
 ```

@@ -1,5 +1,5 @@
 # squad_is_goal_controlling_actor `0x817AC6D6`
 
 ```lua
-local result --[[ number ]] = natives.squads.squad_is_goal_controlling_actor(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+local result --[[ integer ]] = natives.squads.squad_is_goal_controlling_actor(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]])
 ```

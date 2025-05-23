@@ -1,5 +1,5 @@
 # task_use_turret `0x6484F21E`
 
 ```lua
-natives.tasks.task_use_turret(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+natives.tasks.task_use_turret(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]])
 ```

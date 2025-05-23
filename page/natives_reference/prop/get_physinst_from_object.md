@@ -1,5 +1,5 @@
 # get_physinst_from_object `0xDB70DF0C`
 
 ```lua
-local result --[[ number ]] = natives.prop.get_physinst_from_object(_object --[[ number ]])
+local result --[[ integer ]] = natives.prop.get_physinst_from_object(_object --[[ integer ]])
 ```

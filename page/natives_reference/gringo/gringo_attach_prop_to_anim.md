@@ -1,5 +1,5 @@
 # gringo_attach_prop_to_anim `0x4DB7C61C`
 
 ```lua
-local result --[[ number ]] = natives.gringo.gringo_attach_prop_to_anim(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]], _unk4 --[[ number ]])
+local result --[[ integer ]] = natives.gringo.gringo_attach_prop_to_anim(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]], _unk3 --[[ integer ]], _unk4 --[[ integer ]])
 ```

@@ -1,5 +1,5 @@
 # force_look_at_actor `0xFE5715A1`
 
 ```lua
-natives.ai_misc.force_look_at_actor(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+natives.ai_misc.force_look_at_actor(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]])
 ```

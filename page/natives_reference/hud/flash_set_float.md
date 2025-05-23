@@ -1,5 +1,5 @@
 # flash_set_float `0xDF024C94`
 
 ```lua
-local result --[[ number ]] = natives.hud.flash_set_float(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+local result --[[ integer ]] = natives.hud.flash_set_float(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]])
 ```

@@ -1,5 +1,5 @@
 # ss_register `0xFD717A47`
 
 ```lua
-local result --[[ number ]] = natives.string.ss_register(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]])
+local result --[[ integer ]] = natives.string.ss_register(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]])
 ```

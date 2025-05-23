@@ -1,5 +1,5 @@
 # register_actor_speech_context `0x886E06C2`
 
 ```lua
-natives.speech.register_actor_speech_context(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]], _unk4 --[[ number ]], _unk5 --[[ number ]], _unk6 --[[ number ]])
+natives.speech.register_actor_speech_context(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]], _unk3 --[[ integer ]], _unk4 --[[ integer ]], _unk5 --[[ integer ]], _unk6 --[[ integer ]])
 ```

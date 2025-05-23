@@ -1,5 +1,5 @@
 # camera_reset `0xCE956B28`
 
 ```lua
-natives.cam.camera_reset(_unk0 --[[ number ]])
+natives.cam.camera_reset(_unk0 --[[ integer ]])
 ```

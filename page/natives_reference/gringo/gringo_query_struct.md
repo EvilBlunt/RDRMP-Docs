@@ -1,5 +1,5 @@
 # gringo_query_struct `0x1528F08B`
 
 ```lua
-local result --[[ number ]] = natives.gringo.gringo_query_struct(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]], _unk4 --[[ number ]])
+local result --[[ integer ]] = natives.gringo.gringo_query_struct(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]], _unk3 --[[ integer ]], _unk4 --[[ integer ]])
 ```

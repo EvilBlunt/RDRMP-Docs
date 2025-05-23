@@ -1,5 +1,5 @@
 # squad_goal_add_combat `0x4DD06256`
 
 ```lua
-local result --[[ number ]] = natives.squads.squad_goal_add_combat(_unk0 --[[ number ]], _unk1 --[[ number ]], _unk2 --[[ number ]], _unk3 --[[ number ]])
+local result --[[ integer ]] = natives.squads.squad_goal_add_combat(_unk0 --[[ integer ]], _unk1 --[[ integer ]], _unk2 --[[ integer ]], _unk3 --[[ integer ]])
 ```

@@ -1,5 +1,5 @@
 # int_to_string `0xA883AFCC`
 
 ```lua
-local result --[[ number ]] = natives.gui.int_to_string(i --[[ number ]])
+local result --[[ integer ]] = natives.gui.int_to_string(i --[[ number ]])
 ```
