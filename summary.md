@@ -71,6 +71,7 @@
 - [get_player_combatmode](#/page/natives_reference/actor/get_player_combatmode)
 - [get_player_control_config](#/page/natives_reference/actor/get_player_control_config)
 - [get_player_deadeye_points](#/page/natives_reference/actor/get_player_deadeye_points)
+- [get_player_padindex](#/page/natives_reference/actor/get_player_padindex)
 - [get_player_padindex_no_actor](#/page/natives_reference/actor/get_player_padindex_no_actor)
 - [get_player_zoom_state](#/page/natives_reference/actor/get_player_zoom_state)
 - [get_position](#/page/natives_reference/actor/get_position)
@@ -167,7 +168,6 @@
 - [simulate_player_input_gait](#/page/natives_reference/actor/simulate_player_input_gait)
 - [teleport_actor](#/page/natives_reference/actor/teleport_actor)
 - [teleport_actor_with_heading](#/page/natives_reference/actor/teleport_actor_with_heading)
-- [_get_actor_controller](#/page/natives_reference/actor/_get_actor_controller)
 - [_set_actor_force_high_lod_update](#/page/natives_reference/actor/_set_actor_force_high_lod_update)
 
 ### actordraw
@@ -948,6 +948,7 @@
 - [get_analog_button_value](#/page/natives_reference/core/get_analog_button_value)
 - [get_angle_between_vectors_degs](#/page/natives_reference/core/get_angle_between_vectors_degs)
 - [get_closest_world_camera](#/page/natives_reference/core/get_closest_world_camera)
+- [get_cmd_line_param](#/page/natives_reference/core/get_cmd_line_param)
 - [get_commandline_start_pos](#/page/natives_reference/core/get_commandline_start_pos)
 - [get_current_game_time](#/page/natives_reference/core/get_current_game_time)
 - [get_current_unwarped_time](#/page/natives_reference/core/get_current_unwarped_time)
@@ -962,6 +963,8 @@
 - [get_local_player_name](#/page/natives_reference/core/get_local_player_name)
 - [get_mouse_axis_x](#/page/natives_reference/core/get_mouse_axis_x)
 - [get_mouse_axis_y](#/page/natives_reference/core/get_mouse_axis_y)
+- [get_mouse_dx](#/page/natives_reference/core/get_mouse_dx)
+- [get_mouse_dy](#/page/natives_reference/core/get_mouse_dy)
 - [get_mouse_sensitivity](#/page/natives_reference/core/get_mouse_sensitivity)
 - [get_num_world_cameras](#/page/natives_reference/core/get_num_world_cameras)
 - [get_profile_time](#/page/natives_reference/core/get_profile_time)
@@ -1096,12 +1099,9 @@
 - [_0xd1d88eb8](#/page/natives_reference/core/_0xd1d88eb8)
 - [_are_bumper_buttons_swapped](#/page/natives_reference/core/_are_bumper_buttons_swapped)
 - [_construct_matrix_and_transform](#/page/natives_reference/core/_construct_matrix_and_transform)
-- [_get_mouse_delta_x](#/page/natives_reference/core/_get_mouse_delta_x)
-- [_get_mouse_delta_y](#/page/natives_reference/core/_get_mouse_delta_y)
-- [_get_param_value](#/page/natives_reference/core/_get_param_value)
 - [_get_vector_heading_degs](#/page/natives_reference/core/_get_vector_heading_degs)
 - [_get_vector_heading_rads](#/page/natives_reference/core/_get_vector_heading_rads)
-- [_is_game_path_valid](#/page/natives_reference/core/_is_game_path_valid)
+- [_is_any_named_script_running](#/page/natives_reference/core/_is_any_named_script_running)
 - [_terminate_all_named_child_scripts](#/page/natives_reference/core/_terminate_all_named_child_scripts)
 - [_transform_world_to_screen](#/page/natives_reference/core/_transform_world_to_screen)
 - [_vdirection_vector_from_eulers](#/page/natives_reference/core/_vdirection_vector_from_eulers)
@@ -1214,8 +1214,8 @@
 - [dlc_init_stringtable_streamables](#/page/natives_reference/dlc/dlc_init_stringtable_streamables)
 - [dlc_is_content_purchased_flags](#/page/natives_reference/dlc/dlc_is_content_purchased_flags)
 - [dlc_pre_init_content](#/page/natives_reference/dlc/dlc_pre_init_content)
+- [dlc_preinitialize_fragment_stubs](#/page/natives_reference/dlc/dlc_preinitialize_fragment_stubs)
 - [dlc_unmount_pack](#/page/natives_reference/dlc/dlc_unmount_pack)
-- [_dlc_fragment](#/page/natives_reference/dlc/_dlc_fragment)
 
 ### door
 
@@ -1403,11 +1403,11 @@
 - [get_event_type](#/page/natives_reference/event/get_event_type)
 - [get_num_event_responses](#/page/natives_reference/event/get_num_event_responses)
 - [get_object_from_event](#/page/natives_reference/event/get_object_from_event)
+- [get_objectset_for_event_type](#/page/natives_reference/event/get_objectset_for_event_type)
 - [is_event_valid](#/page/natives_reference/event/is_event_valid)
 - [ranged_event_response_init_complete](#/page/natives_reference/event/ranged_event_response_init_complete)
 - [register_for_creation_event](#/page/natives_reference/event/register_for_creation_event)
 - [remove_event_response](#/page/natives_reference/event/remove_event_response)
-- [_get_iteration_set](#/page/natives_reference/event/_get_iteration_set)
 
 ### explosion
 
@@ -1721,11 +1721,11 @@
 - [gui_set_text_color](#/page/natives_reference/gui/gui_set_text_color)
 - [gui_set_text_justify](#/page/natives_reference/gui/gui_set_text_justify)
 - [gui_window_valid](#/page/natives_reference/gui/gui_window_valid)
+- [gui_windows_with_values](#/page/natives_reference/gui/gui_windows_with_values)
 - [i2str](#/page/natives_reference/gui/i2str)
 - [int_to_string](#/page/natives_reference/gui/int_to_string)
 - [v2str](#/page/natives_reference/gui/v2str)
 - [vector_to_string](#/page/natives_reference/gui/vector_to_string)
-- [_gui_get_window](#/page/natives_reference/gui/_gui_get_window)
 
 ### health
 
@@ -1751,13 +1751,13 @@
 - [set_actor_drunk](#/page/natives_reference/health/set_actor_drunk)
 - [set_actor_hanging_from_noose](#/page/natives_reference/health/set_actor_hanging_from_noose)
 - [set_actor_health](#/page/natives_reference/health/set_actor_health)
+- [set_actor_knockouttime](#/page/natives_reference/health/set_actor_knockouttime)
+- [set_actor_knockouttime_default](#/page/natives_reference/health/set_actor_knockouttime_default)
 - [set_actor_ko_points](#/page/natives_reference/health/set_actor_ko_points)
 - [set_actor_max_health](#/page/natives_reference/health/set_actor_max_health)
 - [set_actor_passed_out](#/page/natives_reference/health/set_actor_passed_out)
 - [_actor_has_ko_points](#/page/natives_reference/health/_actor_has_ko_points)
 - [_reset_hit_info_dda_level](#/page/natives_reference/health/_reset_hit_info_dda_level)
-- [_set_actor_health_3](#/page/natives_reference/health/_set_actor_health_3)
-- [_set_actor_health_4](#/page/natives_reference/health/_set_actor_health_4)
 - [_set_hit_info_dda_level](#/page/natives_reference/health/_set_hit_info_dda_level)
 
 ### holster
@@ -1915,10 +1915,10 @@
 - [ui_show_mission_loadingscreen](#/page/natives_reference/hud/ui_show_mission_loadingscreen)
 - [ui_show_random_loadingscreen](#/page/natives_reference/hud/ui_show_random_loadingscreen)
 - [ui_transition_to](#/page/natives_reference/hud/ui_transition_to)
+- [wantedfx_enabled](#/page/natives_reference/hud/wantedfx_enabled)
+- [wantedfx_set_level](#/page/natives_reference/hud/wantedfx_set_level)
 - [_0x2148ac15](#/page/natives_reference/hud/_0x2148ac15)
 - [_0x444c3c32](#/page/natives_reference/hud/_0x444c3c32)
-- [_hud_wanted_crime](#/page/natives_reference/hud/_hud_wanted_crime)
-- [_hud_wanted_meter](#/page/natives_reference/hud/_hud_wanted_meter)
 - [_set_blip_height_enabled](#/page/natives_reference/hud/_set_blip_height_enabled)
 
 ### indicator
@@ -2330,6 +2330,7 @@
 - [add_formation_location](#/page/natives_reference/object/add_formation_location)
 - [add_object_to_objectset](#/page/natives_reference/object/add_object_to_objectset)
 - [add_to_volume_set](#/page/natives_reference/object/add_to_volume_set)
+- [ae_get_asset_id](#/page/natives_reference/object/ae_get_asset_id)
 - [attach_objects](#/page/natives_reference/object/attach_objects)
 - [attach_objects_continuous](#/page/natives_reference/object/attach_objects_continuous)
 - [attach_objects_no_drv](#/page/natives_reference/object/attach_objects_no_drv)
@@ -2451,6 +2452,7 @@
 - [get_objectset_from_object](#/page/natives_reference/object/get_objectset_from_object)
 - [get_objectset_size](#/page/natives_reference/object/get_objectset_size)
 - [get_object_attached_to](#/page/natives_reference/object/get_object_attached_to)
+- [get_object_attachement](#/page/natives_reference/object/get_object_attachement)
 - [get_object_axis](#/page/natives_reference/object/get_object_axis)
 - [get_object_from_actor](#/page/natives_reference/object/get_object_from_actor)
 - [get_object_from_crime](#/page/natives_reference/object/get_object_from_crime)
@@ -2500,6 +2502,7 @@
 - [is_actorenum_installed](#/page/natives_reference/object/is_actorenum_installed)
 - [is_actor_inited](#/page/natives_reference/object/is_actor_inited)
 - [is_assettypeid_valid](#/page/natives_reference/object/is_assettypeid_valid)
+- [is_assettypeid_valid_by_string](#/page/natives_reference/object/is_assettypeid_valid_by_string)
 - [is_attachment_valid](#/page/natives_reference/object/is_attachment_valid)
 - [is_crime_in_progress](#/page/natives_reference/object/is_crime_in_progress)
 - [is_crime_tallied](#/page/natives_reference/object/is_crime_tallied)
@@ -2627,9 +2630,6 @@
 - [verify_event_count](#/page/natives_reference/object/verify_event_count)
 - [verify_type_count](#/page/natives_reference/object/verify_type_count)
 - [_0x26011c78](#/page/natives_reference/object/_0x26011c78)
-- [_get_object_attachment](#/page/natives_reference/object/_get_object_attachment)
-- [_get_type_id_using_actor_enum](#/page/natives_reference/object/_get_type_id_using_actor_enum)
-- [_is_type_id_valid_by_string](#/page/natives_reference/object/_is_type_id_valid_by_string)
 - [_rmptfx_effect_start](#/page/natives_reference/object/_rmptfx_effect_start)
 - [_rmptfx_effect_start_and_fade_in](#/page/natives_reference/object/_rmptfx_effect_start_and_fade_in)
 - [_rmptfx_effect_stop](#/page/natives_reference/object/_rmptfx_effect_stop)
@@ -3235,6 +3235,7 @@
 - [ui_goto](#/page/natives_reference/ui/ui_goto)
 - [ui_hide](#/page/natives_reference/ui/ui_hide)
 - [ui_include](#/page/natives_reference/ui/ui_include)
+- [ui_is_fuimovie_loaded](#/page/natives_reference/ui/ui_is_fuimovie_loaded)
 - [ui_isactive](#/page/natives_reference/ui/ui_isactive)
 - [ui_isfocused](#/page/natives_reference/ui/ui_isfocused)
 - [ui_label_set_text](#/page/natives_reference/ui/ui_label_set_text)
@@ -3256,12 +3257,11 @@
 - [ui_set_text](#/page/natives_reference/ui/ui_set_text)
 - [ui_set_text_hash](#/page/natives_reference/ui/ui_set_text_hash)
 - [ui_show](#/page/natives_reference/ui/ui_show)
+- [ui_stackpush](#/page/natives_reference/ui/ui_stackpush)
 - [ui_suppress](#/page/natives_reference/ui/ui_suppress)
 - [ui_texture_set_hash](#/page/natives_reference/ui/ui_texture_set_hash)
 - [ui_texture_set_name](#/page/natives_reference/ui/ui_texture_set_name)
 - [ui_unfocus](#/page/natives_reference/ui/ui_unfocus)
-- [_ui_enter_exclusive](#/page/natives_reference/ui/_ui_enter_exclusive)
-- [_ui_is_movie_loaded](#/page/natives_reference/ui/_ui_is_movie_loaded)
 - [_ui_set_auto_exit_time](#/page/natives_reference/ui/_ui_set_auto_exit_time)
 
 ### ui_hud
