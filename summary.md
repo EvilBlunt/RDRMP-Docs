@@ -12,6 +12,7 @@
 - [🔠 Input Strings](#/page/game_reference/input_strings)
 - [🔠 Input Strings Prompts](#/page/game_reference/input_strings_prompts)
 - [🧍 Actors](#/page/game_reference/actors)
+- [🗺️ Blips](#/page/game_reference/blips)
 
 ## 💼 Core Reference
 
