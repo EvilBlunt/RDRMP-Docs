@@ -1,4 +1,4 @@
-# Input Strings Prompts
+# 🔠 Input Strings Prompts
 
 This is the full list of input strings prompts used in the game UI (Help text, subtitles, ...). Thanks to [@EvilBlunt](https://github.com/EvilBlunt/RDR-Strings-and-Enums/)
 

@@ -1,4 +1,4 @@
-# Events
+# 📃 Events
 
 Below you will find a list of all the 'core' events used by RDRMP LUA API.
 

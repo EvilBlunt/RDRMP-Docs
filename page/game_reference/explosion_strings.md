@@ -1,4 +1,4 @@
-# Explosion Strings
+# 💥 Explosion Strings
 
 All the explosion strings that can be used with [_create_explosion](#/page/natives_reference/explosion/_create_explosion). Thanks to [@EvilBlunt](https://github.com/EvilBlunt/RDR-Strings-and-Enums/)
 

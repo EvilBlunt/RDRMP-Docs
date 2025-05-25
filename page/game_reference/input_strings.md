@@ -1,4 +1,4 @@
-# Input Strings
+# 🔠 Input Strings
 
 This is the full list of input strings used for both keyboard & controller. Thanks to [@EvilBlunt](https://github.com/EvilBlunt/RDR-Strings-and-Enums/)
 

@@ -1,4 +1,4 @@
-# Actors
+# 🎭 Actors
 
 Below you will find a list of all the actors that can be spawned in the game, this includes npcs, vehicles & animals. (Props aren't included)
 

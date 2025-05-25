@@ -1,4 +1,4 @@
-# Controller Buttons
+# 🎮 Controller Buttons
 
 This is a full list of all the usable controller buttons.
 

@@ -1,4 +1,4 @@
-# Keyboard Keycodes
+# ⌨️ Keyboard Keycodes
 
 This is a full list of all the usable keyboard keycodes.
 
