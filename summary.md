@@ -11,6 +11,7 @@
 - [💥 Explosion Strings](#/page/game_reference/explosion_strings)
 - [🔠 Input Strings](#/page/game_reference/input_strings)
 - [🔠 Input Strings Prompts](#/page/game_reference/input_strings_prompts)
+- [🌦️ Weathers](#/page/game_reference/weathers)
 - [🎭 Actors](#/page/game_reference/actors)
 - [🗺️ Blips](#/page/game_reference/blips)
 

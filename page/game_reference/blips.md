@@ -12,7 +12,8 @@ Here's a complete list of blips you can use on the pause map or minimap. (Thanks
 | natives.hud.change_blip_icon | 0xABD125F6 |
 | natives.hud.get_blip_icon | 0xEE4F4B7D |
 
-## Blip Sprite
+## Blips Sprite
+
 | Blip | Sprite | Blip | Sprite | Blip | Sprite |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 | BLIP_COMP_ANTHROP | ![allblips-0](../../assets/blips_icons/D5wnKip.png) | BLIP_COMP_DAUGHTER | ![allblips-1](../../assets/blips_icons/aCVkgob.png) | BLIP_COMP_FAMOUS_GUN | ![allblips-2](../../assets/blips_icons/4ojBf9R.png) |
