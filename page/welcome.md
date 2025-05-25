@@ -9,10 +9,10 @@ In this docs you will find LUA scripting functions API aswell as other documenta
 
 ## Preview
 
-![Main Menu](https://raw.githubusercontent.com/Red-Mods/RDRMP-Docs/main/assets/preview_main_menu.png)
+![Main Menu](../assets/preview_main_menu.png)
 
 *Main menu*
 
-![Gameplay](https://raw.githubusercontent.com/Red-Mods/RDRMP-Docs/main/assets/preview_gameplay.png)
+![Gameplay](../assets/preview_gameplay.png)
 
 *2 players connected and playing RDRMP*
