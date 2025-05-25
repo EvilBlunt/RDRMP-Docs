@@ -12,7 +12,7 @@ Additionally there is a rare bug right now where RDRMP can crash at game startup
 
 Be sure you have installed the latest [Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160) from **Microsoft**. Choose the **x64** version.
 
-![Microsoft Visual C++ Redistributable](../assets/microsoft_vcpp_link.jpg)
+![Microsoft Visual C++ Redistributable](https://raw.githubusercontent.com/Red-Mods/RDRMP-Docs/main/assets/microsoft_vcpp_link.jpg)
 
 ## RDRMP is detected as a virus
 
