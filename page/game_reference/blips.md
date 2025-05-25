@@ -1,12 +1,16 @@
+# 🗺️ Blips
+
+Here's a complete list of blips you can use on the pause map or minimap. (Thanks to [@EvilBlunt](https://github.com/EvilBlunt/RDR-Strings-and-Enums/))
+
 ## Known Natives that use this enum
 
 | Native | Hash |
 | :------------ | :------------: |
-| HUD::ADD_BLIP_FOR_ACTOR | 0xEFB9362F |
-| HUD::ADD_BLIP_FOR_OBJECT | 0x0E5372EC |
-| HUD::ADD_BLIP_FOR_COORD | 0xC6F43D0E |
-| HUD::CHANGE_BLIP_ICON | 0xABD125F6 |
-| HUD::GET_BLIP_ICON | 0xEE4F4B7D |
+| natives.hud.add_blip_for_actor | 0xEFB9362F |
+| natives.hud.add_blip_for_object | 0x0E5372EC |
+| natives.hud.add_blip_for_coord | 0xC6F43D0E |
+| natives.hud.change_blip_icon | 0xABD125F6 |
+| natives.hud.get_blip_icon | 0xEE4F4B7D |
 
 ## Blip Sprite
 | Blip | Sprite | Blip | Sprite | Blip | Sprite |
