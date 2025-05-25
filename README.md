@@ -8,10 +8,10 @@ If you want to contribute to this documentation, you can send pull requests.
 
 ## Preview
 
-![Main Menu](https://raw.githubusercontent.com/Red-Mods/RDRMP-Docs/main/assets/preview_main_menu.png)
+![Main Menu](assets/preview_main_menu.png)
 
 *Main menu*
 
-![Gameplay](https://raw.githubusercontent.com/Red-Mods/RDRMP-Docs/main/assets/preview_gameplay.png)
+![Gameplay](assets/preview_gameplay.png)
 
 *2 players connected and playing RDRMP*
