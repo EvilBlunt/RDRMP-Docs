@@ -135,6 +135,90 @@ This is the full list of input strings prompts used in the game UI (Help text, s
 | PROMPT_MINIGAME_LOOK_AROUND |  | ![LALT](../../assets/keyboard_button_icons/u4YFYb8.png) |
 | PROMPT_MINIGAME_LOOK_AT_HAND | ![RTRIGGER](../../assets/xbox_button_icons/8fBZX5u.png) | ![LSHIFT](../../assets/keyboard_button_icons/xaRSH4t.png) |
 | PROMPT_MINIGAME_LOOK_AT_DEALER | ![LTRIGGER](../../assets/xbox_button_icons/B32aDhG.png) | ![E](../../assets/keyboard_button_icons/51oVmKd.png) |
+| PROMPT_VKB_ARROW_UP |  | ![Arrow_Up](../../assets/keyboard_button_icons/XGZcdO6.png) |
+| PROMPT_VKB_ARROW_DOWN |  | ![Arrow_Down](../../assets/keyboard_button_icons/xQ2pr13.png) |
+| PROMPT_VKB_ARROW_LEFT |  | ![Arrow_Left](../../assets/keyboard_button_icons/wXlc9Q3.png) |
+| PROMPT_VKB_ARROW_RIGHT |  | ![Arrow_Right](../../assets/keyboard_button_icons/tyQGf6T.png) |
+| PROMPT_VKB_BACKSPACE |  | ![Backspace](../../assets/keyboard_button_icons/u4FKal0.png) |
+| PROMPT_VKB_CAPS |  | ![Caps](../../assets/keyboard_button_icons/Wf0DghP.png) |
+| PROMPT_VKB_CHEVRON_LEFT |  | ![chevron_left](../../assets/keyboard_button_icons/SebVtfF.png) |
+| PROMPT_VKB_CHEVRON_RIGHT |  | ![chevron_right](../../assets/keyboard_button_icons/jLyFMSL.png) |
+| PROMPT_VKB_DELETE |  | ![Delete](../../assets/keyboard_button_icons/wgWzgi2.png) |
+| PROMPT_VKB_END |  | ![End](../../assets/keyboard_button_icons/2GC7ttj.png) |
+| PROMPT_VKB_ENTER |  | ![Enter](../../assets/keyboard_button_icons/mheU3l1.png) |
+| PROMPT_VKB_ESCAPE |  | ![Escape](../../assets/keyboard_button_icons/dGSRbDM.png) |
+| PROMPT_VKB_F1 |  | ![F1](../../assets/keyboard_button_icons/XBvfPAn.png) |
+| PROMPT_VKB_F2 |  | ![F2](../../assets/keyboard_button_icons/WvNDOoY.png) |
+| PROMPT_VKB_F3 |  | ![F3](../../assets/keyboard_button_icons/y033vcB.png) |
+| PROMPT_VKB_F4 |  | ![F4](../../assets/keyboard_button_icons/IecB53Y.png) |
+| PROMPT_VKB_F5 |  | ![F5](../../assets/keyboard_button_icons/M33K8Pm.png) |
+| PROMPT_VKB_F6 |  | ![F6](../../assets/keyboard_button_icons/VYXiyPR.png) |
+| PROMPT_VKB_F7 |  | ![F7](../../assets/keyboard_button_icons/lN7cCoF.png) |
+| PROMPT_VKB_F8 |  | ![F8](../../assets/keyboard_button_icons/yQpq2NY.png) |
+| PROMPT_VKB_F9 |  | ![F9](../../assets/keyboard_button_icons/72KBJ2B.png) |
+| PROMPT_VKB_F10 |  | ![F10](../../assets/keyboard_button_icons/K4T0Qx5.png) |
+| PROMPT_VKB_F11 |  | ![F11](../../assets/keyboard_button_icons/qej8Zqs.png) |
+| PROMPT_VKB_F12 |  | ![F12](../../assets/keyboard_button_icons/dlDxKqh.png) |
+| PROMPT_VKB_F13 |  | ![F13](../../assets/keyboard_button_icons/3cGwRpk.png) |
+| PROMPT_VKB_F14 |  | ![F14](../../assets/keyboard_button_icons/AiCOMZl.png) |
+| PROMPT_VKB_F15 |  | ![F15](../../assets/keyboard_button_icons/odC5o6g.png) |
+| PROMPT_VKB_HOME |  | ![Home](../../assets/keyboard_button_icons/Td7RytJ.png) |
+| PROMPT_VKB_INDENT_SPACER | | |
+| PROMPT_VKB_INSERT |  | ![Insert](../../assets/keyboard_button_icons/nqNOgfx.png) |
+| PROMPT_VKB_KEY_TYPE1 |  | ![Key_Type1](../../assets/keyboard_button_icons/AtqZpGD.png) |
+| PROMPT_VKB_KEY_TYPE2 |  | ![Key_Type2](../../assets/keyboard_button_icons/cU38eEd.png) |
+| PROMPT_VKB_L_ALT |  | ![L_Alt](../../assets/keyboard_button_icons/u4YFYb8.png) |
+| PROMPT_VKB_R_ALT |  | ![R_Alt](../../assets/keyboard_button_icons/ybaRxtX.png) |
+| PROMPT_VKB_L_CTRL |  | ![L_CTRL](../../assets/keyboard_button_icons/PPkge6g.png) |
+| PROMPT_VKB_R_CTRL |  | ![R_CTRL](../../assets/keyboard_button_icons/nZc6PrH.png) |
+| PROMPT_VKB_L_SHIFT |  | ![L_Shift](../../assets/keyboard_button_icons/xaRSH4t.png) |
+| PROMPT_VKB_R_SHIFT |  | ![R_Shift](../../assets/keyboard_button_icons/vd2n1W3.png) |
+| PROMPT_VKB_LEFT_BUTTON |  | ![Left_Button](../../assets/keyboard_button_icons/aQ7tPx4.png) |
+| PROMPT_VKB_RIGHT_BUTTON |  | ![Right_Button](../../assets/keyboard_button_icons/Unt19bP.png) |
+| PROMPT_VKB_MIDDLE_BUTTON |  | ![Middle_Button](../../assets/keyboard_button_icons/knSdcDh.png) |
+| PROMPT_VKB_LOCK |  | ![Lock](../../assets/keyboard_button_icons/vM2lZ2H.png) |
+| PROMPT_VKB_MOUSE_4TH_BUTTON |  | ![Mouse_4th_Button](../../assets/keyboard_button_icons/XOwBJWO.png) |
+| PROMPT_VKB_MOUSE_5TH_BUTTON |  | ![Mouse_5th_Button](../../assets/keyboard_button_icons/flXRyFL.png) |
+| PROMPT_VKB_MOUSE_6TH_BUTTON |  | ![Mouse_6th_Button](../../assets/keyboard_button_icons/uWmjMP7.png) |
+| PROMPT_VKB_MOUSE_7TH_BUTTON |  | ![Mouse_7th_Button](../../assets/keyboard_button_icons/qbnTWt4.png) |
+| PROMPT_VKB_MOUSE_8TH_BUTTON |  | ![Mouse_8th_Button](../../assets/keyboard_button_icons/l5tzQXA.png) |
+| PROMPT_VKB_MOVE_UP |  | ![Move_Up](../../assets/keyboard_button_icons/su3k5jY.png) |
+| PROMPT_VKB_MOVE_DOWN |  | ![Move_Down](../../assets/keyboard_button_icons/vwFvTiW.png) |
+| PROMPT_VKB_MOVE_LEFT |  | ![Move_Left](../../assets/keyboard_button_icons/SL3aeo5.png) |
+| PROMPT_VKB_MOVE_RIGHT |  | ![Move_Right](../../assets/keyboard_button_icons/mP8gXSY.png) |
+| PROMPT_VKB_MOVE_UP_DOWN |  | ![Move_Up_Down](../../assets/keyboard_button_icons/4g4PUav.png) |
+| PROMPT_VKB_MOVE_LEFT_RIGHT |  | ![Move_Left_Right](../../assets/keyboard_button_icons/cUxMNev.png) |
+| PROMPT_VKB_MOVE_ALL_DIRECTIONS |  | ![Move_All_Directions](../../assets/keyboard_button_icons/hx5D2io.png) |
+| PROMPT_VKB_NUM_0 |  | ![Num_0](../../assets/keyboard_button_icons/Sryo3UV.png) |
+| PROMPT_VKB_NUM_1 |  | ![Num_1](../../assets/keyboard_button_icons/rnle4wh.png) |
+| PROMPT_VKB_NUM_2 |  | ![Num_2](../../assets/keyboard_button_icons/esAQmsM.png) |
+| PROMPT_VKB_NUM_3 |  | ![Num_3](../../assets/keyboard_button_icons/nQxfKUZ.png) |
+| PROMPT_VKB_NUM_4 |  | ![Num_4](../../assets/keyboard_button_icons/z7BSnVn.png) |
+| PROMPT_VKB_NUM_5 |  | ![Num_5](../../assets/keyboard_button_icons/eblFVc9.png) |
+| PROMPT_VKB_NUM_6 |  | ![Num_6](../../assets/keyboard_button_icons/aj6Us4K.png) |
+| PROMPT_VKB_NUM_7 |  | ![Num_7](../../assets/keyboard_button_icons/DtoGVK8.png) |
+| PROMPT_VKB_NUM_8 |  | ![Num_8](../../assets/keyboard_button_icons/YHersaJ.png) |
+| PROMPT_VKB_NUM_9 |  | ![Num_9](../../assets/keyboard_button_icons/NZbmpHC.png) |
+| PROMPT_VKB_NUM_COMMA |  | ![Num_Comma](../../assets/keyboard_button_icons/58cZtxc.png) |
+| PROMPT_VKB_NUM_DECIMAL |  | ![Num_Decimal](../../assets/keyboard_button_icons/GYkl7Un.png) |
+| PROMPT_VKB_NUM_ENTER |  | ![Num_Enter](../../assets/keyboard_button_icons/WudtZO2.png) |
+| PROMPT_VKB_NUM_EQUALS |  | ![Num_Equals](../../assets/keyboard_button_icons/v0xw598.png) |
+| PROMPT_VKB_NUM_LOCK |  | ![Num_Lock](../../assets/keyboard_button_icons/MtzRdfK.png) |
+| PROMPT_VKB_NUM_DIVIDE |  | ![Num_Divide](../../assets/keyboard_button_icons/mTPfk4x.png) |
+| PROMPT_VKB_NUM_MULTIPLY |  | ![Num_Multiply](../../assets/keyboard_button_icons/J8AdWcx.png) |
+| PROMPT_VKB_NUM_MINUS |  | ![Num_Minus](../../assets/keyboard_button_icons/HYwUIMj.png) |
+| PROMPT_VKB_NUM_PLUS |  | ![Num_Plus](../../assets/keyboard_button_icons/n0R6zzG.png) |
+| PROMPT_VKB_PAGE_UP |  | ![Page_Up](../../assets/keyboard_button_icons/NAzDj3G.png) |
+| PROMPT_VKB_PAGE_DOWN |  | ![Page_Down](../../assets/keyboard_button_icons/VcVu3cm.png) |
+| PROMPT_VKB_PAUSE |  | ![Pause](../../assets/keyboard_button_icons/4uJQmUL.png) |
+| PROMPT_VKB_PROMPT_ERROR |  | ![Prompt_Error](../../assets/keyboard_button_icons/JUd8mHF.png) |
+| PROMPT_VKB_PRT_SCR |  | ![Prt_Scr](../../assets/keyboard_button_icons/8mltFxF.png) |
+| PROMPT_VKB_SCROLL_LOCK |  | ![Scroll_Lock](../../assets/keyboard_button_icons/qnbImlg.png) |
+| PROMPT_VKB_SPACE |  | ![Space](../../assets/keyboard_button_icons/GXImT6Z.png) |
+| PROMPT_VKB_TAB |  | ![Tab](../../assets/keyboard_button_icons/Wm7nhET.png) |
+| PROMPT_VKB_WHEEL_UP |  | ![Wheel_Up](../../assets/keyboard_button_icons/DlESthY.png) |
+| PROMPT_VKB_WHEEL_DOWN |  | ![Wheel_Down](../../assets/keyboard_button_icons/VDXrznb.png) |
+| PROMPT_VKB_WHEEL_UP_DOWN |  | ![Wheel_Up_Down](../../assets/keyboard_button_icons/G0wboQ9.png) |
 
 ## Known Natives that use these Icon Strings
 
@@ -276,5 +360,89 @@ local promptInputsList =
     ["PROMPT_MINIGAME_LOOK_AROUND"] = "{@MINIGAME.LOOK_AROUND}", -- "BLANK" / "LALT"
     ["PROMPT_MINIGAME_LOOK_AT_HAND"] = "{@MINIGAME.LOOK_AT_HAND}", -- "RTRIGGER" / "LSHIFT"
     ["PROMPT_MINIGAME_LOOK_AT_DEALER"] = "{@MINIGAME.LOOK_AT_DEALER}", -- "LTRIGGER" / "E"
+    ["PROMPT_VKB_ARROW_UP"] = "{Arrow_Up}",
+    ["PROMPT_VKB_ARROW_DOWN"] = "{Arrow_Down}",
+    ["PROMPT_VKB_ARROW_LEFT"] = "{Arrow_Left}",
+    ["PROMPT_VKB_ARROW_RIGHT"] = "{Arrow_Right}",
+    ["PROMPT_VKB_BACKSPACE"] = "{Backspace}",
+    ["PROMPT_VKB_CAPS"] = "{Caps}",
+    ["PROMPT_VKB_CHEVRON_LEFT"] = "{chevron_left}",
+    ["PROMPT_VKB_CHEVRON_RIGHT"] = "{chevron_right}",
+    ["PROMPT_VKB_DELETE"] = "{Delete}",
+    ["PROMPT_VKB_END"] = "{End}",
+    ["PROMPT_VKB_ENTER"] = "{Enter}",
+    ["PROMPT_VKB_ESCAPE"] = "{Escape}",
+    ["PROMPT_VKB_F1"] = "{F1}",
+    ["PROMPT_VKB_F2"] = "{F2}",
+    ["PROMPT_VKB_F3"] = "{F3}",
+    ["PROMPT_VKB_F4"] = "{F4}",
+    ["PROMPT_VKB_F5"] = "{F5}",
+    ["PROMPT_VKB_F6"] = "{F6}",
+    ["PROMPT_VKB_F7"] = "{F7}",
+    ["PROMPT_VKB_F8"] = "{F8}",
+    ["PROMPT_VKB_F9"] = "{F9}",
+    ["PROMPT_VKB_F10"] = "{F10}",
+    ["PROMPT_VKB_F11"] = "{F11}",
+    ["PROMPT_VKB_F12"] = "{F12}",
+    ["PROMPT_VKB_F13"] = "{F13}",
+    ["PROMPT_VKB_F14"] = "{F14}",
+    ["PROMPT_VKB_F15"] = "{F15}",
+    ["PROMPT_VKB_HOME"] = "{Home}",
+    ["PROMPT_VKB_INDENT_SPACER"] = "{Indent_Spacer}",
+    ["PROMPT_VKB_INSERT"] = "{Insert}",
+    ["PROMPT_VKB_KEY_TYPE1"] = "{Key_Type1}",
+    ["PROMPT_VKB_KEY_TYPE2"] = "{Key_Type2}",
+    ["PROMPT_VKB_L_ALT"] = "{L_Alt}",
+    ["PROMPT_VKB_R_ALT"] = "{R_Alt}",
+    ["PROMPT_VKB_L_CTRL"] = "{L_CTRL}",
+    ["PROMPT_VKB_R_CTRL"] = "{R_CTRL}",
+    ["PROMPT_VKB_L_SHIFT"] = "{L_Shift}",
+    ["PROMPT_VKB_R_SHIFT"] = "{R_Shift}",
+    ["PROMPT_VKB_LEFT_BUTTON"] = "{Left_Button}",
+    ["PROMPT_VKB_RIGHT_BUTTON"] = "{Right_Button}",
+    ["PROMPT_VKB_MIDDLE_BUTTON"] = "{Middle_Button}",
+    ["PROMPT_VKB_LOCK"] = "{Lock}",
+    ["PROMPT_VKB_MOUSE_4TH_BUTTON"] = "{Mouse_4th_Button}",
+    ["PROMPT_VKB_MOUSE_5TH_BUTTON"] = "{Mouse_5th_Button}",
+    ["PROMPT_VKB_MOUSE_6TH_BUTTON"] = "{Mouse_6th_Button}",
+    ["PROMPT_VKB_MOUSE_7TH_BUTTON"] = "{Mouse_7th_Button}",
+    ["PROMPT_VKB_MOUSE_8TH_BUTTON"] = "{Mouse_8th_Button}",
+    ["PROMPT_VKB_MOVE_UP"] = "{Move_Up}",
+    ["PROMPT_VKB_MOVE_DOWN"] = "{Move_Down}",
+    ["PROMPT_VKB_MOVE_LEFT"] = "{Move_Left}",
+    ["PROMPT_VKB_MOVE_RIGHT"] = "{Move_Right}",
+    ["PROMPT_VKB_MOVE_UP_DOWN"] = "{Move_Up_Down}",
+    ["PROMPT_VKB_MOVE_LEFT_RIGHT"] = "{Move_Left_Right}",
+    ["PROMPT_VKB_MOVE_ALL_DIRECTIONS"] = "{Move_All_Directions}",
+    ["PROMPT_VKB_NUM_0"] = "{Num_0}",
+    ["PROMPT_VKB_NUM_1"] = "{Num_1}",
+    ["PROMPT_VKB_NUM_2"] = "{Num_2}",
+    ["PROMPT_VKB_NUM_3"] = "{Num_3}",
+    ["PROMPT_VKB_NUM_4"] = "{Num_4}",
+    ["PROMPT_VKB_NUM_5"] = "{Num_5}",
+    ["PROMPT_VKB_NUM_6"] = "{Num_6}",
+    ["PROMPT_VKB_NUM_7"] = "{Num_7}",
+    ["PROMPT_VKB_NUM_8"] = "{Num_8}",
+    ["PROMPT_VKB_NUM_9"] = "{Num_9}",
+    ["PROMPT_VKB_NUM_COMMA"] = "{Num_Comma}",
+    ["PROMPT_VKB_NUM_DECIMAL"] = "{Num_Decimal}",
+    ["PROMPT_VKB_NUM_ENTER"] = "{Num_Enter}",
+    ["PROMPT_VKB_NUM_EQUALS"] = "{Num_Equals}",
+    ["PROMPT_VKB_NUM_LOCK"] = "{Num_Lock}",
+    ["PROMPT_VKB_NUM_DIVIDE"] = "{Num_Divide}",
+    ["PROMPT_VKB_NUM_MULTIPLY"] = "{Num_Multiply}",
+    ["PROMPT_VKB_NUM_MINUS"] = "{Num_Minus}",
+    ["PROMPT_VKB_NUM_PLUS"] = "{Num_Plus}",
+    ["PROMPT_VKB_PAGE_UP"] = "{Page_Up}",
+    ["PROMPT_VKB_PAGE_DOWN"] = "{Page_Down}",
+    ["PROMPT_VKB_PAUSE"] = "{Pause}",
+    ["PROMPT_VKB_PROMPT_ERROR"] = "{Prompt_Error}",
+    ["PROMPT_VKB_PRT_SCR"] = "{Prt_Scr}",
+    ["PROMPT_VKB_SCROLL_LOCK"] = "{Scroll_Lock}",
+    ["PROMPT_VKB_SPACE"] = "{Space}",
+    ["PROMPT_VKB_TAB"] = "{Tab}",
+    ["PROMPT_VKB_WHEEL_UP"] = "{Wheel_Up}",
+    ["PROMPT_VKB_WHEEL_DOWN"] = "{Wheel_Down}",
+    ["PROMPT_VKB_WHEEL_UP_DOWN"] = "{Wheel_Up_Down}",
 }
 ```
