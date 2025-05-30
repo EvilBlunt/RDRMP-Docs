@@ -1,4 +1,4 @@
-# 🗺️ Blips
+# 🚩 Blips
 
 Here's a complete list of blips you can use on the pause map or minimap. (Thanks to [@EvilBlunt](https://github.com/EvilBlunt/RDR-Strings-and-Enums/))
 

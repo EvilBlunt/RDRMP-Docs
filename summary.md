@@ -13,7 +13,8 @@
 - [🔠 Input Strings Prompts](#/page/game_reference/input_strings_prompts)
 - [🌦️ Weathers](#/page/game_reference/weathers)
 - [🎭 Actors](#/page/game_reference/actors)
-- [🗺️ Blips](#/page/game_reference/blips)
+- [🚩 Blips](#/page/game_reference/blips)
+- [🗺️ Sectors](#/page/game_reference/sectors)
 
 ## 💼 Core Reference
 
