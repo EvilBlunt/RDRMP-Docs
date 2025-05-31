@@ -2,7 +2,7 @@
 
 The game use a system of world & child sectors to disable or enable different places on the map. A list of world and child sectors can be found below.
 
-## Known Natives that use this enum
+## Known Natives that use this strings
 
 | Native | Hash |
 | :------------ | :------------: |
